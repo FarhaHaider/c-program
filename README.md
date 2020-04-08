@@ -1,4 +1,4 @@
-# c-program
+# c++ program
 Simple square matrix program using c++.
 Dora is very much interested in gardening and she decides to plant more trees in her garden. She plants trees in the order of rows
 and columns. She numbered the trees in column wise order. She planted the mango trees only in the second column from both first and last.
